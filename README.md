@@ -13,20 +13,54 @@ MBA graduate specialising in Finance with 10+ years of international experience 
 
 Experienced finance and operations professional transitioning into Data Analytics using Power BI, SQL, Python, and Excel.
 
-<h2>🚀 Project Portfolio</h2>
 
-<a href="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi">
-  <img src="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi/blob/main/screenshots/Dashboard.jpg" width="300" />
-</a>
+<h2>📂 Featured Projects</h2>
 
-<a href="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba">
-  <img src="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba/blob/main/screenshots/Dashboard.jpg" width="300" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi">
+        <img src="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi/blob/main/screenshots/Dashboard.jpg" width="100%" />
+      </a>
+      <br><br>
+      <b>✈️ Airport Operations Analysis</b>
+      <br>
+      Power BI dashboard analysing airport KPIs and operational efficiency.
+    </td>
 
-<a href="https://github.com/vidhi-jajodia/retail_sales_analysis_python">
-  <img src="https://github.com/vidhi-jajodia/retail_sales_analysis_python/blob/main/screenshots/Dashboard.jpg" width="300" />
-</a>
+    <td width="50%">
+      <a href="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba">
+        <img src="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba/blob/main/screenshots/Dashboard.jpg" width="100%" />
+      </a>
+      <br><br>
+      <b>👨‍💼 HR Analytics Dashboard</b>
+      <br>
+      Excel VBA dashboard analysing workforce KPIs and employee trends.
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/vidhi-jajodia/retail_sales_analysis_python">
+        <img src="https://github.com/vidhi-jajodia/retail_sales_analysis_python/blob/main/screenshots/Dashboard.jpg" width="100%" />
+      </a>
+      <br><br>
+      <b>🛍️ Retail Sales Analysis</b>
+      <br>
+      Python-based sales analytics project using Pandas and Matplotlib.
+    </td>
+
+    <td width="50%">
+      <a href="https://github.com/vidhi-jajodia/sql_finance_analysis">
+        <img src="https://img.shields.io/badge/SQL-Coming%20Soon-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="100%" />
+      </a>
+      <br><br>
+      <b>📊 SQL Financial Analysis</b>
+      <br>
+      Upcoming SQL analytics project with KPIs, joins, and forecasting.
+    </td>
+  </tr>
+</table>
 ---
 
 # 🛠️ Technical Skills
