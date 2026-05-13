@@ -16,15 +16,15 @@ Experienced finance and operations professional transitioning into Data Analytic
 <h2>🚀 Project Portfolio</h2>
 
 <a href="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi">
-  <img src="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi/blob/bc1e2456902adcfa2df9fa33cb52ef409e5a1f96/screenshots/Page%201%20-%20Executive%20Overview.jpg" width="400" />
+  <img src="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi/blob/main/screenshots/Dashboard.jpg" width="300" />
 </a>
 
 <a href="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba">
-  <img src="YOUR_IMAGE_LINK_HERE" width="400" />
+  <img src="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba/blob/main/screenshots/Dashboard.jpg" width="300" />
 </a>
 
 <a href="https://github.com/vidhi-jajodia/retail_sales_analysis_python">
-  <img src="YOUR_IMAGE_LINK_HERE" width="400" />
+  <img src="https://github.com/vidhi-jajodia/retail_sales_analysis_python/blob/main/screenshots/Dashboard.jpg" width="300" />
 </a>
 
 ---
