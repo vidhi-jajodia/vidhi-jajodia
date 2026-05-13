@@ -102,7 +102,7 @@ Python | Pandas | NumPy | Matplotlib | SQL | Power BI | Excel VBA | MySQL
 
 ---
 
-# 📂 Featured GitHub Projects
+# 📂 Featured GitHub Projects (Overview)
 
 ## ✈️ Airport Operations Analysis (Power BI)
 
