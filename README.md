@@ -27,7 +27,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <br>
 
-<b>✈️ Airport Operations</b>
+<b>✈️ Airport Operations Dashboard (Power BI)</b>
 
 </td>
 
@@ -39,7 +39,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <br>
 
-<b>👨‍💼 HR Analytics</b>
+<b>👨‍💼 HR Analytics Dashboard (Excel+VBA)</b>
 
 </td>
 
@@ -55,7 +55,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <br>
 
-<b>🛍️ Retail Sales</b>
+<b>🛍️ Retail Sales Dashboard (Python)</b>
 
 </td>
 
