@@ -21,7 +21,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <td align="center" width="50%">
 
-<a href="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi">
+<a href="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi" target="_blank">
 <img src="https://raw.githubusercontent.com/vidhi-jajodia/airport_operations_analysis_pbi/refs/heads/main/screenshots/Dashboard.jpg" width="300px" height="150px"  style="border-radius:10px;"/>
 </a>
 
@@ -33,7 +33,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <td align="center" width="50%">
 
-<a href="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba">
+<a href="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba" target="_blank">
 <img src="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba/raw/refs/heads/main/screenshots/Dashboard.jpg" width="300px" height="150px" style="border-radius:10px;"/>
 </a>
 
@@ -49,7 +49,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <td align="center" width="50%">
 
-<a href="https://github.com/vidhi-jajodia/retail_sales_analysis_python">
+<a href="https://github.com/vidhi-jajodia/retail_sales_analysis_python" target="_blank">
 <img src="https://github.com/vidhi-jajodia/retail_sales_analysis_python/raw/refs/heads/main/screenshots/Dashboard.jpg" width="300px" height="150px" style="border-radius:10px;"/>
 </a>
 
@@ -61,7 +61,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <td align="center" width="50%">
 
-<a href="https://github.com/vidhi-jajodia/sql_finance_analysis">
+<a href="https://github.com/vidhi-jajodia/sql_finance_analysis" target="_blank">
 <img src="https://img.shields.io/badge/SQL-Coming%20Soon-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="300px" height="150px" style="border-radius:10px;"/>
 </a>
 
