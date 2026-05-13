@@ -3,20 +3,29 @@
 📍 London, UK  
 💼 LinkedIn: https://linkedin.com/in/vidhi-jajodia  
 
+Data Analyst & Finance Professional | Power BI | SQL | Python | Financial Analytics | MBA Finance
+
 ---
 
 # 🚀 About Me
 
 MBA graduate specialising in Finance with 10+ years of international experience across operations, business development, financial analysis, and data-driven decision-making.
 
-I am passionate about transforming raw financial and operational data into actionable business insights using Power BI, SQL, Python, and Advanced Excel.
+Experienced finance and operations professional transitioning into Data Analytics using Power BI, SQL, Python, and Excel.
 
-Currently building projects focused on:
-- Data Analytics
-- Financial Analysis
-- Dashboard Development
-- KPI Reporting
-- Forecasting & Business Insights
+<h2>🚀 Project Portfolio</h2>
+
+<a href="https://github.com/vidhi-jajodia/airport_operations_analysis_pbi">
+  <img src="YOUR_IMAGE_LINK_HERE" width="400" />
+</a>
+
+<a href="https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba">
+  <img src="YOUR_IMAGE_LINK_HERE" width="400" />
+</a>
+
+<a href="https://github.com/vidhi-jajodia/retail_sales_analysis_python">
+  <img src="YOUR_IMAGE_LINK_HERE" width="400" />
+</a>
 
 ---
 
