@@ -73,6 +73,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 </tr>
 </table>
+
 ---
 
 # 🛠️ Technical Skills
