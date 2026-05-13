@@ -27,7 +27,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 <br>
 
-<b>✈️ Airport Operations Dashboard (Power BI)</b>
+<b>✈️ Airport Operations Dashboard(Power BI)</b>
 
 </td>
 
