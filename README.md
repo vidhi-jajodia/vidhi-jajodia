@@ -1,116 +1,123 @@
-# Hi 👋 I'm Vidhi Jajodia
+# Hi, I'm Vidhi Jajodia 👋
 
-🌍 International Project Manager | Procurement & Supply Chain | Global Finance | Data Analytics
-
-📍 London, UK
-📧 [jajodiavidhi@gmail.com](mailto:jajodiavidhi@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/vidhi-jajodia)
+📍 London, UK  
+💼 LinkedIn: https://linkedin.com/in/vidhi-jajodia  
 
 ---
 
-## 💼 Professional Summary
+# 🚀 About Me
 
-Results-driven International Project & Sales Leader with **10+ years of global experience** across procurement, supply chain, SaaS, and finance.
+MBA graduate specialising in Finance with 10+ years of international experience across operations, business development, financial analysis, and data-driven decision-making.
 
-✔️ Delivered **30% YoY revenue growth**
-✔️ Managed **500+ global client accounts**
-✔️ Achieved **98% on-time delivery & project execution**
-✔️ Worked across **UK, UAE, Europe & Asia**
+I am passionate about transforming raw financial and operational data into actionable business insights using Power BI, SQL, Python, and Advanced Excel.
 
----
-
-## 🚀 Core Expertise
-
-* Business Development & Client Acquisition
-* Procurement & Vendor Management
-* Contract Negotiation & Cost Optimization
-* Financial Forecasting & Budgeting
-* Supply Chain & Logistics
-* SaaS & E-commerce Solutions
-* Data Analytics & Business Intelligence
-* Cross-Functional Team Leadership
+Currently building projects focused on:
+- Data Analytics
+- Financial Analysis
+- Dashboard Development
+- KPI Reporting
+- Forecasting & Business Insights
 
 ---
 
-## 📊 Data & Analytics Skills
+# 🛠️ Technical Skills
 
-* Power BI (Dashboards & Reporting)
-* Advanced Excel (VBA, Macros, Automation)
-* SQL / MySQL
-* Python (Data Analysis)
+## 📊 Data Analytics & BI
+- Power BI
+- SQL (MySQL)
+- Python
+- Advanced Excel
+- Excel VBA
+- Data Visualization
+- KPI Tracking & Reporting
 
----
+## 📈 Finance & Business
+- Financial Analysis
+- Budgeting & Forecasting
+- Financial Modelling
+- Business Analysis
+- Stakeholder Management
+- Asset Management
 
-## 🛠️ Tools & Technologies
-
-`Power BI` | `Excel (Advanced)` | `SQL` | `Python` | `ERP Systems` | `CRM Tools` | `SaaS Platforms`
-
----
-
-## 📈 Key Achievements
-
-🏆 Delivered **147% of sales targets** through data-driven strategy
-📦 Improved procurement efficiency by **20%**
-🤝 Increased client retention by **25%**
-🌐 Managed global operations across **12+ countries**
-
----
-
-## 💼 Professional Experience
-
-### ✈️ Menzies Aviation — Commercial Sales Support (London, UK)
-
-📅 Oct 2023 – Present
-
-* Procurement & vendor coordination for airline operations
-* Forecasting, reporting & financial support
-* Client servicing across travel partners
-
-### 🌍 Sagar Enterprise — International Business Development
-
-📅 Mar 2021 – Sept 2023
-
-* Global sourcing & logistics management
-* Negotiated contracts with **20% cost savings**
-* Improved retention through structured engagement
-
-### 💎 Virtual Diamond Boutique — Regional Sales Manager
-
-📅 Jun 2018 – Nov 2020
-
-* Delivered SaaS e-commerce & API solutions
-* Achieved **147% & 131% sales targets**
-* Managed forecasting & KPIs
-
-### 📦 C. Dinesh & Co. — Senior Stock & Sales Manager
-
-📅 May 2011 – May 2018
-
-* Managed global clients with **98% delivery success**
-* Optimized inventory & forecasting
+## 🧰 Libraries & Tools
+```text
+Python | Pandas | NumPy | Matplotlib | SQL | Power BI | Excel VBA | MySQL
+```
 
 ---
 
-## 🎓 Certifications
+# 📂 Featured GitHub Projects
 
-✔️ Power BI Data Analytics
-✔️ Advanced Excel (VBA, Automation)
-✔️ HubSpot Reporting & Sales Software
-✔️ Procurement & Supply Chain Fundamentals (CIPS)
+## ✈️ Airport Operations Analysis (Power BI)
+
+🔗 Repository:  
+https://github.com/vidhi-jajodia/airport_operations_analysis_pbi
+
+### 📌 Overview
+Developed an interactive Power BI dashboard analysing airport operational efficiency, KPI trends, and performance metrics to support operational decision-making.
+
+### 🚀 Key Features
+- KPI tracking dashboard
+- Operational performance monitoring
+- Interactive visualizations
+- Business insight reporting
+
+### 🛠️ Tools Used
+```text
+Power BI | Excel | Data Visualization
+```
 
 ---
 
-## 🌐 Languages
+## 👨‍💼 HR Analytics Dashboard (Excel VBA)
 
-* English (Fluent)
-* Hindi (Fluent)
-* Polish (Basic)
+🔗 Repository:  
+https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba
+
+### 📌 Overview
+Built an HR analytics dashboard to analyse employee performance, attrition trends, and workforce insights using Excel VBA automation.
+
+### 🚀 Key Features
+- Interactive HR dashboard
+- VBA automation
+- Attrition analysis
+- Workforce KPI tracking
+
+### 🛠️ Tools Used
+```text
+Excel VBA | Advanced Excel | Data Analysis
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🛍️ Retail Sales Analysis (Python)
 
-![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhi-jajodia\&show_icons=true\&theme=default)
+🔗 Repository:  
+https://github.com/vidhi-jajodia/retail_sales_analysis_python
+
+### 📌 Overview
+Performed retail sales analysis using Python and Pandas to identify revenue trends, customer behaviour, and product performance insights.
+
+### 🚀 Key Features
+- Data cleaning & preprocessing
+- Revenue trend analysis
+- Customer behaviour insights
+- Sales performance reporting
+
+### 🛠️ Tools Used
+```text
+Python | Pandas | NumPy | Matplotlib
+```
+
+---
+
+# 🌟 Key Strengths
+
+✅ Strong analytical & financial mindset  
+✅ Ability to translate data into actionable insights  
+✅ Experience in forecasting & budgeting  
+✅ High attention to detail & reporting accuracy  
+✅ Business-focused problem solving  
 
 ---
 
