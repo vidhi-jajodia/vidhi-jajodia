@@ -178,7 +178,6 @@ Python | Pandas | NumPy | Matplotlib
 ---
 
 ## 🤝 Let's Connect
-💼 LinkedIn: https://linkedin.com/in/vidhi-jajodia 
 💼 Open to opportunities in:
 
 * International Business
@@ -186,6 +185,10 @@ Python | Pandas | NumPy | Matplotlib
 * Supply Chain & Procurement
 * Strategy & Operations
 
+---
+
+* GitHub: [vidhi-jajodia](https://github.com/vidhi-jajodia)
+* LinkedIn: [vidhi-jajodia](https://www.linkedin.com/in/vidhi-jajodia/)
 ---
 
 ✨ *"Driving global growth through data, strategy, and execution."*
