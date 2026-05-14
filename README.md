@@ -1,13 +1,10 @@
-# Hi, I'm Vidhi Jajodia 👋
-
-📍 London, UK  
-💼 LinkedIn: https://linkedin.com/in/vidhi-jajodia  
+## Hi, I'm Vidhi Jajodia 👋
 
 Data Analyst & Finance Professional | Power BI | SQL | Python | Financial Analytics | MBA Finance
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 MBA graduate specialising in Finance with 10+ years of international experience across operations, business development, financial analysis, and data-driven decision-making.
 
@@ -79,9 +76,9 @@ Experienced finance and operations professional transitioning into Data Analytic
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## 📊 Data Analytics & BI
+### 📊 Data Analytics & BI
 - Power BI
 - SQL (MySQL)
 - Python
@@ -90,7 +87,7 @@ Experienced finance and operations professional transitioning into Data Analytic
 - Data Visualization
 - KPI Tracking & Reporting
 
-## 📈 Finance & Business
+### 📈 Finance & Business
 - Financial Analysis
 - Budgeting & Forecasting
 - Financial Modelling
@@ -98,79 +95,79 @@ Experienced finance and operations professional transitioning into Data Analytic
 - Stakeholder Management
 - Asset Management
 
-## 🧰 Libraries & Tools
+### 🧰 Libraries & Tools
 ```text
 Python | Pandas | NumPy | Matplotlib | SQL | Power BI | Excel VBA | MySQL
 ```
 
 ---
 
-# 📂 Featured GitHub Projects (Overview)
+## 📂 Featured GitHub Projects (Overview)
 
-## ✈️ Airport Operations Analysis (Power BI)
+### ✈️ Airport Operations Analysis (Power BI)
 
 🔗 Repository:  
 https://github.com/vidhi-jajodia/airport_operations_analysis_pbi
 
-### 📌 Overview
+#### 📌 Overview
 Developed an interactive Power BI dashboard analysing airport operational efficiency, KPI trends, and performance metrics to support operational decision-making.
 
-### 🚀 Key Features
+#### 🚀 Key Features
 - KPI tracking dashboard
 - Operational performance monitoring
 - Interactive visualizations
 - Business insight reporting
 
-### 🛠️ Tools Used
+#### 🛠️ Tools Used
 ```text
 Power BI | Excel | Data Visualization
 ```
 
 ---
 
-## 👨‍💼 HR Analytics Dashboard (Excel VBA)
+### 👨‍💼 HR Analytics Dashboard (Excel VBA)
 
 🔗 Repository:  
 https://github.com/vidhi-jajodia/hr_analytics_dashboard_excel_vba
 
-### 📌 Overview
+#### 📌 Overview
 Built an HR analytics dashboard to analyse employee performance, attrition trends, and workforce insights using Excel VBA automation.
 
-### 🚀 Key Features
+#### 🚀 Key Features
 - Interactive HR dashboard
 - VBA automation
 - Attrition analysis
 - Workforce KPI tracking
 
-### 🛠️ Tools Used
+#### 🛠️ Tools Used
 ```text
 Excel VBA | Advanced Excel | Data Analysis
 ```
 
 ---
 
-## 🛍️ Retail Sales Analysis (Python)
+### 🛍️ Retail Sales Analysis (Python)
 
 🔗 Repository:  
 https://github.com/vidhi-jajodia/retail_sales_analysis_python
 
-### 📌 Overview
+#### 📌 Overview
 Performed retail sales analysis using Python and Pandas to identify revenue trends, customer behaviour, and product performance insights.
 
-### 🚀 Key Features
+#### 🚀 Key Features
 - Data cleaning & preprocessing
 - Revenue trend analysis
 - Customer behaviour insights
 - Sales performance reporting
 
-### 🛠️ Tools Used
+#### 🛠️ Tools Used
 ```text
 Python | Pandas | NumPy | Matplotlib
 ```
 
 ---
 
-# 🌟 Key Strengths
+## 🌟 Key Strengths
 
 ✅ Strong analytical & financial mindset  
 ✅ Ability to translate data into actionable insights  
@@ -181,7 +178,7 @@ Python | Pandas | NumPy | Matplotlib
 ---
 
 ## 🤝 Let's Connect
-
+💼 LinkedIn: https://linkedin.com/in/vidhi-jajodia 
 💼 Open to opportunities in:
 
 * International Business
