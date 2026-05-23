@@ -1,6 +1,6 @@
 ## Hi, I'm Vidhi Jajodia 👋
 
-Data Analyst & Finance Professional | Power BI | SQL | Python | Financial Analytics | MBA Finance
+MBA | Data Analytics | Power BI | SQL | Procurement & Business Operations | Open to Opportunities in UK
 
 ---
 
